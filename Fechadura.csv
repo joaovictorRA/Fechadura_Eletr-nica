@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"R1, R2",2,"1 kΩ Resistor"
+"KEYPAD1",1," Teclado 4x4"
+"SERVO1",1,"Posicional Micro servo"
+"D1",1,"Vermelho LED"
+"D2",1,"Verde LED"
